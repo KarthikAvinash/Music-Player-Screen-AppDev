@@ -1,1 +1,1 @@
-![Screenshot_1667933457](https://user-images.githubusercontent.com/99091892/200655896-0337c235-e99c-4327-87be-8359bead18be.png)
+![Music app](https://user-images.githubusercontent.com/99091892/200851817-bfa5d6a6-6a9b-4b5d-a734-3d911b21681c.gif)
