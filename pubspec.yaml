@@ -50,6 +50,9 @@ flutter:
     - assets/images/img2.webp
     - assets/images/back.jpg
     - assets/images/img3.jpg
+    - assets/images/img4.jpg
+    - assets/images/img4.png
+    - assets/images/img5.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
